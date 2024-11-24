@@ -1,2 +1,7 @@
-# Sign-Board-Detection-with-YOLOv8
-This project leverages the YOLOv8 object detection model to accurately identify and localize sign boards in images or video streams
+# Sign Board Detection using YOLOv8
+
+This project uses **YOLOv8** to detect and localize sign boards in images efficiently. It is designed for quick and accurate detection in static images.
+
+## Features
+- Detects sign boards in various conditions.
+- High detection accuracy for image-based inputs.
